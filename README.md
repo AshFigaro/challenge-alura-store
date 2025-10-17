@@ -20,9 +20,9 @@ Basado en la evaluación integral, se recomienda la venta de la Tienda 4. Esta t
 
 <strong>3. Calificación Promedio (Satisfacción del Cliente):</strong> Se calculó el promedio de la columna Calificación. La Tienda 4 consistentemente presenta el promedio más bajo ($[3.96]$ vs. $[4.01]$ en la más alta).
   
-4. <strong>Productos Más y Menos Vendidos:</strong> Se identificó el Top 5 y el Bottom 5 de productos por cada tienda para analizar el inventario estancado.
+<strong>4. Productos Más y Menos Vendidos:</strong> Se identificó el Top 5 y el Bottom 5 de productos por cada tienda para analizar el inventario estancado.
 
-5. <strong>Costo de Envío Promedio:</strong> Se calculó el promedio del costo de envío por tienda. Este dato fue crucial para refutar la causa de las bajas ventas, ya que la Tienda 4 resultó ser la más eficiente logísticamente (costo promedio más bajo).
+<strong>5. Costo de Envío Promedio:</strong> Se calculó el promedio del costo de envío por tienda. Este dato fue crucial para refutar la causa de las bajas ventas, ya que la Tienda 4 resultó ser la más eficiente logísticamente (costo promedio más bajo).
 
 - <h2>Visualizaciones Clave<h2>
 
