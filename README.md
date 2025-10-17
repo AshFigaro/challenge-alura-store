@@ -50,6 +50,16 @@ El proyecto se desarrolló siguiendo el flujo de trabajo estándar de análisis 
 
 <strong>3. Matplotlib:</strong> Para la generación de visualizaciones.
 
+- <h2>Contenido del Repositorio<h2>
+
+<strong>1. base-de-datos-challenge1-latam/:</strong> Carpeta que contiene los datos en formato CSV para la consolidación inicial del proyecto.
+
+<strong>2. AluraStoreLatam.ipynb (Notebook Principal):</strong> Contiene todo el código fuente del análisis, desde la carga y limpieza de datos hasta el cálculo de las 5 métricas, la generación de los 3 gráficos, y el informe final.
+
+<strong>3. README.md:</strong> Documento actual que presenta la justificación, hallazgos clave, y la recomendación final del análisis.
+   
+<strong>4. Tabla.png:</strong> Imagen auxiliar que muestra un resumen tabular de los ingresos totales (Usado en el informe ejecutivo final).
+
 - <h2>Posibles Mejoras<h2>
 
 <strong>1. Análisis de Rentabilidad:</strong> Incluir una columna de costo del producto para calcular el margen de ganancia real por tienda, no solo los ingresos brutos.
